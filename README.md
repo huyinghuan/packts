@@ -13,4 +13,8 @@
 
 ## 可以参考webpack打包出来的结果来实现
 
+```
+npm install
+npm run build
+```
 
